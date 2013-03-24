@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Flashlight
+author: Mads Moller
+license: MIT
+copyright: Napp
+
+
+# these should not be edited
+name: nappflashlight
+moduleid: dk.napp.flashlight
+guid: d89e02ea-2114-4c0e-bef5-baafdc368e9b
+platform: android
+minsdk: 2.1.4.GA
